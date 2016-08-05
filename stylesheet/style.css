@@ -1,0 +1,86 @@
+body{
+
+}
+.header{
+	height: 30px;
+	background-color: #efba7c;
+	margin: 0px;
+	margin-left: -8px;
+	margin-top: -8px;
+}
+.header .gre{
+	margin: 0px;
+	display: inline-block;
+	color: #0662ec;
+	font-family: segoe ui;
+	font-size: 20px;
+}
+.header .quotes{
+	margin: 0px;
+	float: right;
+	display: inline-block;
+	color: #058403;
+	font-size: 20px;
+}
+.navbar {
+	background-color: #efba7c;
+	height: 30px;
+	display: block;
+	margin-top: -16px;
+	margin-left: -8px;
+}
+.navbar ul{
+
+}
+.navbar ul li{
+    margin: 0px;
+	list-style: none;
+	display: inline-block;
+}
+.navbar ul li a{
+	margin: 0px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: segoe ui;
+	color: #042bec;
+	display: inline-block;
+	padding: 5px;
+}
+.navbar ul li a:hover{
+	margin: 0px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: segoe ui;
+	color: #fff;
+	display: inline-block;
+	padding: 5px;
+}
+.mainContainer{
+	width: 100%;
+	margin: 0px;
+	display: block;
+}
+.content{
+    display: inline-block;
+}
+.content img{
+	/* height: 200px; */
+	/* width: 150px; */
+}
+.mainContainer .maincontent{
+	background-color: #444;
+	display: inline-block;
+	height: 345px;
+	width: 80%;
+	position: absolute;
+	float: right;
+	/* margin-left: 1px; */
+	padding-left: 10px;
+}
+.home{
+	background-color: #444;
+	display: inline-block;
+	height: 345px;
+	width: 100%;
+	position: absolute;
+}
