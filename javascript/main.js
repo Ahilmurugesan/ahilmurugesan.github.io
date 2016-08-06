@@ -8,7 +8,7 @@ $(document).ready(function(){
 });
 function edu(){
     $(".home").hide();
-    $(".education").show();
+    $(".education").fadeIn(3000);
     $(".cocurricular").hide();
     $(".extracurricular").hide();
     $(".trainings").hide();
@@ -18,7 +18,7 @@ function edu(){
 function coc(){
  	$(".home").hide();
  	$(".education").hide();
-    $(".cocurricular").show();
+    $(".cocurricular").fadeIn(3000);
     $(".extracurricular").hide();
     $(".trainings").hide();
     $(".workshop").hide();
@@ -28,7 +28,7 @@ function exc(){
  	$(".home").hide();
  	$(".education").hide();
     $(".cocurricular").hide();
-    $(".extracurricular").show();
+    $(".extracurricular").fadeIn(3000)
     $(".trainings").hide();
     $(".workshop").hide();
     $(".presentation").hide();
@@ -38,7 +38,7 @@ function tra(){
  	$(".education").hide();
     $(".cocurricular").hide();
     $(".extracurricular").hide();
-    $(".trainings").show();
+    $(".trainings").fadeIn(3000);
     $(".workshop").hide();
     $(".presentation").hide();
 }
@@ -48,7 +48,7 @@ function ws(){
     $(".cocurricular").hide();
     $(".extracurricular").hide();
     $(".trainings").hide();
-    $(".workshop").show();
+    $(".workshop").fadeIn(3000);
     $(".presentation").hide();
 }
 function pre(){
@@ -58,5 +58,5 @@ function pre(){
     $(".extracurricular").hide();
     $(".trainings").hide();
     $(".workshop").hide();
-    $(".presentation").show();
+    $(".presentation").fadeIn(3000);
 }
