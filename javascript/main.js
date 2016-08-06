@@ -6,7 +6,7 @@ $(document).ready(function(){
     $(".workshop").hide();
     $(".presentation").hide();
 });
-function homw(){
+function home(){
     $(".home").fadeIn(3000);
     $(".education").hide();
     $(".cocurricular").hide();
