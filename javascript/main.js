@@ -6,6 +6,15 @@ $(document).ready(function(){
     $(".workshop").hide();
     $(".presentation").hide();
 });
+function homw(){
+    $(".home").fadeIn(3000);
+    $(".education").hide();
+    $(".cocurricular").hide();
+    $(".extracurricular").hide();
+    $(".trainings").hide();
+    $(".workshop").hide();
+    $(".presentation").hide();
+}
 function edu(){
     $(".home").hide();
     $(".education").fadeIn(3000);
