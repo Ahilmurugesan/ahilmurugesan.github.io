@@ -37,7 +37,7 @@ function exc(){
  	$(".home").hide();
  	$(".education").hide();
     $(".cocurricular").hide();
-    $(".extracurricular").fadeIn(3000);
+    $(".extracurricular").fadeIn(3000)
     $(".trainings").hide();
     $(".workshop").hide();
     $(".presentation").hide();
