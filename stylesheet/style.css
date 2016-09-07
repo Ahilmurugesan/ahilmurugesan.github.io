@@ -70,7 +70,7 @@ body{
 	/* width: 150px; */
 }
 .mainContainer .maincontent{
-	background-image: url("/image/bg.png");
+	
 	display: inline-block;
 	color: #fff;
 	height: 500px;
@@ -80,7 +80,7 @@ body{
 	float: right;
 	/* margin-left: 1px; */
 	padding-left: 10px;
-	background-color: white;
+	
 }
 .footer{
 	display: block;
