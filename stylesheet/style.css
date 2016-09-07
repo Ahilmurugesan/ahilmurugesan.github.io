@@ -1,5 +1,5 @@
 body{
-     background-image: url("../image/orb_design_03.jpg"); //image url
+     background-image: url("/image/bg-10-full.jpg"); //image url
     font-family: monospace;
 }
 .header{
@@ -70,7 +70,7 @@ body{
 	/* width: 150px; */
 }
 .mainContainer .maincontent{
-	background-image: url("../image/orb_design_03.jpg");
+	background-image: url("/image/bg-10-full.jpg");
 	display: inline-block;
 	color: #fff;
 	height: 500px;
