@@ -70,7 +70,7 @@ body{
 	/* width: 150px; */
 }
 .mainContainer .maincontent{
-	
+	 background-color:black;
 	display: inline-block;
 	color: #fff;
 	height: 500px;
