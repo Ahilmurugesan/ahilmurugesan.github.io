@@ -70,7 +70,7 @@ body{
 	/* width: 150px; */
 }
 .mainContainer .maincontent{
-	
+	background-image: url("../image/orb_design_03.jpg");
 	display: inline-block;
 	color: #fff;
 	height: 500px;
