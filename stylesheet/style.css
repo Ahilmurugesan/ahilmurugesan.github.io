@@ -1,5 +1,5 @@
 body{
-     background-image: url("");
+     background-image: url("../image/bg.png");
     font-family: monospace;
 }
 .header{
@@ -70,7 +70,7 @@ body{
 	/* width: 150px; */
 }
 .mainContainer .maincontent{
-	background-color:black;
+	background-image: url("../image/bg.png");
 	display: inline-block;
 	color: #fff;
 	height: 500px;
